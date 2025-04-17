@@ -5,5 +5,4 @@ layout: default
 
 # ❓ Frequently Asked Questions
 
-
-- [Hello](Hello_World.md)
+[📄 View FAQ PDF](assets/Hello_World.pdf)
