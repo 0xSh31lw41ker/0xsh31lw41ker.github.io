@@ -3,5 +3,7 @@ title: Home
 layout: default
 ---
 
-## 📚 Docs
+Hi, How was your day?
+
+## 📚 Writeups
 - [HTB](writeup/htb.md)
