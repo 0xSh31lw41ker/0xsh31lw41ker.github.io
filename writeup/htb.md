@@ -5,8 +5,4 @@ layout: default
 
 # ❓ Frequently Asked Questions
 
-Q: Can I use Markdown?  
-A: Yes!
-
-Q: Is this free?  
-A: Absolutely.
+[📄 View FAQ PDF](assets/Hello_World.pdf)
