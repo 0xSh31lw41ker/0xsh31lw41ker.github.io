@@ -5,4 +5,4 @@ layout: default
 
 # 📘 User Guide
 
-Here's how to get started...
+Here's how to get started again
