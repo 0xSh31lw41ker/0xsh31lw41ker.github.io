@@ -3,6 +3,6 @@ title: FAQ
 layout: default
 ---
 
-# ❓ Frequently Asked Questions
+# Machines
 
-<a href="assets/Hello_World.pdf" target="_blank" rel="noopener">📄 View FAQ PDF</a>
+<a href="assets/Hello_World.pdf" target="_blank" rel="noopener">Moew_Writup_PDF</a>
