@@ -5,4 +5,4 @@ layout: default
 
 # ❓ Frequently Asked Questions
 
-[📄 View FAQ PDF](assets/Hello_World.pdf)
+<a href="assets/Hello_World.pdf" target="_blank" rel="noopener">📄 View FAQ PDF</a>
