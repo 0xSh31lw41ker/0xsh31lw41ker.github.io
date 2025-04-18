@@ -5,4 +5,4 @@ layout: default
 
 # Machines
 
-- <a href="assets/Hackthebox_Meow.pdf" target="_blank" rel="noopener">Moew_Writup_PDF</a>
+- <a href="https://medium.com/@0xSh31lw41ker/hackthebox-meow-51d9d999d093" target="_blank" rel="noopener">Moew_Writup</a>
